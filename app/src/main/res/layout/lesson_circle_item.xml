@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:padding="8dp">
+
+    <ImageView
+        android:id="@+id/lesson_circle_background"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:src="@drawable/circle_active_background"
+    android:scaleType="fitCenter" />
+
+    <ImageView
+        android:id="@+id/lesson_circle_icon"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_gravity="center"
+        android:src="@drawable/circle_active_background"
+    app:tint="@android:color/white" />
+
+    <TextView
+        android:id="@+id/lesson_progress_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|center_horizontal"
+        android:text="2/4"
+        android:textColor="@android:color/white"
+        android:textSize="12sp"
+        android:visibility="gone" /> </FrameLayout>

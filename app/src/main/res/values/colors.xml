@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="yellow">#F2C14E</color>
+    <color name="text_input_stroke_color">#CCCCCC</color>
+    <color name="text_input_hint_color">@android:color/darker_gray</color>
+
+</resources>

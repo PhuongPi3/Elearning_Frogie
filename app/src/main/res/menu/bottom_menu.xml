@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/home"
+        android:icon="@drawable/ic_home_fill"
+        android:title="Home" />
+
+    <item android:id="@+id/video"
+        android:icon="@drawable/ic_video_fill"
+        android:title="Video"/>
+
+    <item android:id="@+id/practice"
+        android:icon="@drawable/ic_practice_fill"
+        android:title="Practice"/>
+
+    <item android:id="@+id/person"
+        android:icon="@drawable/ic_person_fill"
+        android:title="Personal"/>
+</menu>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="20dp"
+    android:background="@drawable/rounded_corner_gray_dialog"
+    android:gravity="center_horizontal">
+
+    <TextView
+        android:id="@+id/tv_locked_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Gợi đồ ăn và đồ uống"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:textColor="@android:color/white"
+        android:layout_marginBottom="10dp"/>
+
+    <TextView
+        android:id="@+id/tv_locked_message"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hãy hoàn thành tất cả các cấp độ phía trên để mở khóa nhé!"
+        android:gravity="center"
+        android:textColor="@android:color/white"
+        android:textSize="16sp"
+        android:layout_marginBottom="20dp"/>
+
+    <Button
+        android:id="@+id/btn_locked_ok"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="ĐÃ KHÓA"
+        android:backgroundTint="@color/black"
+        android:textColor="@android:color/white"/>
+
+</LinearLayout>
