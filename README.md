@@ -80,6 +80,7 @@ app/
    ```bash
    git clone https://github.com/your-username/frogie.git
 2.Mở trong Android Studio
+
 3.Build và chạy ứng dụng trên thiết bị hoặc trình giả lập
 
 ---
