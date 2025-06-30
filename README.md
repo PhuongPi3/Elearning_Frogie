@@ -2,7 +2,8 @@
 
 [🎬 Xem video demo ngắn](https://youtube.com/shorts/oAWuKw4GTjQ?feature=share)
 
-![image](https://github.com/user-attachments/assets/63348f47-ab0f-43f9-a9ac-d820dea41370)
+![image](https://github.com/user-attachments/assets/bcce16b7-e5e6-4b1b-8ce9-b242b33288c0)
+
 
 
 **Frogie** là ứng dụng học tiếng Anh trên Android, tập trung vào việc luyện tập từ vựng thông qua các bài điền từ vào chỗ trống. Giao diện tối giản, hoạt động offline, phù hợp với người mới bắt đầu.
