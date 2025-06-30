@@ -1,6 +1,7 @@
 # 🐸 Frogie – Ứng dụng học tiếng Anh đơn giản & thú vị
 
 [🎬 Xem video demo ngắn](https://youtube.com/shorts/oAWuKw4GTjQ?feature=share)
+
 ![image](https://github.com/user-attachments/assets/63348f47-ab0f-43f9-a9ac-d820dea41370)
 
 
